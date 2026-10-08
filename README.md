@@ -20,6 +20,14 @@ A map of historical arable land for **Northern Finland** is publicly available a
 
 🔗 https://etsin.fairdata.fi/dataset/00f52e65-1ece-4c52-a68d-21fb0021d883
 
+## Overview Map 
+
+The historical paper map series was printed between 1949 and 1998 and covers a total of 11,000 maps. 
+This study focus on 938 map tiles from northern Finland. The dataset is a composit of the oldest available map for each site,
+in the study region the maps were produced between 1949-1979, so the datset spans a composite covering 40 decades. 
+For interpreting the details of the dataset a map overview file is found in "OverviewShapeFile.shp". 
+The shapefile contains the boundaries of each map tile, in the attribute table the column 'file name' contains the filename of 
+the original downloaded maps and the column 'year' indicate the print year of the map.
 ---
 
 ## Running the workflow for the rest of Finland
