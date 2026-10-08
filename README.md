@@ -19,7 +19,7 @@ This historical dataset enables detailed, field‑level analyses of arable land 
 
 ## Data availability
 
-A map of historical arable land for **Northern Finland** is publicly available at:
+The map dataset of historical arable land for **Northern Finland** is publicly available at:
 
 🔗 https://etsin.fairdata.fi/dataset/00f52e65-1ece-4c52-a68d-21fb0021d883
 
